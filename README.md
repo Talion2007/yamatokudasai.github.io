@@ -1,0 +1,2 @@
+# yamatokudasai.github.io
+Hehehe
