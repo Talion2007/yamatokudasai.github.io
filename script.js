@@ -1,4 +1,4 @@
-document.querySelector("h1").innerText = "Kyo Ne to Chiisana Manco";
+document.querySelector("h1").innerText = "Ōkina penisu o chīsana chitsu ni";
 
 document.getElementById("Buttom").addEventListener("click", function () {
   document.getElementById("Message").innerText = "Open the console (;-;)";
